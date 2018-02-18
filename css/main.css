@@ -19,4 +19,20 @@ padding-top: 30px;
 #bag {
 position: absolute;
 top: 60px;
+width: 105%;
+}
+
+#premium {
+    position: absolute;
+    bottom: 140px;
+    left: 10px;
+    width: 90%;
+}
+
+#chocolates {
+    position: absolute;
+    bottom: 147px;
+    left: 148px;
+    width: 40%;
+
 }
