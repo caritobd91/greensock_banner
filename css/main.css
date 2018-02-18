@@ -1,0 +1,22 @@
+#container{
+    width: 270px;
+    height: 499px;
+    position: relative;
+    overflow: hidden;
+    background-color: #0d9ad8;
+}
+
+#logo {
+width: 70%;
+position: absolute;
+margin: auto;
+display: block;
+padding-left: 39px;
+padding-top: 30px;
+
+}
+
+#bag {
+position: absolute;
+top: 60px;
+}
